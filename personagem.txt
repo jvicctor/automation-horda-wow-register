@@ -1,0 +1,7 @@
+# Escolha salva. O script lê este arquivo toda vez que abre.
+# Classe pronta: guerreiro ou bruxo
+classe=guerreiro
+
+# De 2 a 12 letras, sem espaço, número ou acento.
+primeiro_nome=Binlone
+segundo_nome=Tankudo
